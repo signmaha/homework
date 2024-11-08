@@ -2,7 +2,7 @@ averagesscore= {}
 
 grades = [[5, 3, 3, 5,4],[2, 2, 2, 3],[4, 5, 5, 2],[4, 4, 3],[5, 5, 5, 4, 5]]
 
-students = {'Johny', 'Bilbo', 'Steve', 'Khendrik', 'Aaron'}   #какой командой упорядочитть в алфавитном порядке
+students = {'Johny', 'Bilbo', 'Steve', 'Khendrik', 'Aaron'}   #ккомандой упорядочитть в алфавитном порядке
 print(sorted(students))
 
 
@@ -28,9 +28,6 @@ print(averagesscore)
     #print(student, grade)
 
 
-
-#averagersscore = {'Aaron': grades_1, 'Bilbo': grades_2, 'Khendrik': grades_3,
-                  #'Steve': grades_4, 'Jhony': grades_5 }
 
 
 
