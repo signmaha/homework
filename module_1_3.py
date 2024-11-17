@@ -1,12 +1,12 @@
 name = 'Maria'
 
-print(name)
+print('Name:', name)
 
-age = 23
-print(age)
+age =  23
+print('age', age)
 
 age = age + 3
-print(age)
+print('new age', age)
 
 is_student = True
-print(is_student)
+print('is_student', is_student)
